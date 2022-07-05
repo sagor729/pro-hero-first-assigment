@@ -78,7 +78,7 @@ body {
     display: inline;
     font-size: 22px;
     padding: 16px;
-    background: #edebeb85;
+    background: #FAFAFA;
     border-radius: 7px;
     margin-left: 14px;
     font-weight: bold;
@@ -106,4 +106,36 @@ body {
 
 .dnextra {
     margin-top: 50px;
+}
+
+.dontation_text {
+    color: #707070
+}
+
+.donaton_plan_two {
+    width: 100%;
+    display: flex;
+    margin-top: 60px;
+
+}
+
+.donationcard {
+    width: 25%;
+    height: 225px;
+    padding-left: 21px;
+    padding-top: 40px;
+    margin: auto;
+}
+
+.dcs1 {
+    background: rgba(79, 157, 166, 0.1);
+}
+
+.dcs2 {
+    background: rgba(255, 89, 89, 0.1);
+
+}
+
+.dcs3 {
+    background: #FFF4D6;
 }
