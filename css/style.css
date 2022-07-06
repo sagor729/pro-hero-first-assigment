@@ -156,3 +156,76 @@ footer h1 {
 footer p {
     color: white;
 }
+
+.donationgallery {
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 98px;
+}
+
+.donationgallerycontent {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.donationgallerycollage {
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.donationgallerycollage img {
+    width: 23%;
+    display: inline;
+    margin-left: 1.4%;
+    border-radius: 5px;
+}
+
+.donation_signup_content {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.donation_signup_input {
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    background: #FFF4D6;
+    margin-top: 39px;
+}
+
+.donationinp {
+    width: 350px;
+    height: 39px;
+    background: #D9D9D9;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.donationbtn {
+    text-decoration: none;
+    background: #FF5959;
+    padding: 9px 50px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+
+.donation_sicombo {
+    display: flex;
+    margin-left: 115px;
+    padding-top: 77px;
+}
+
+.dbtn {
+    margin-top: 9px;
+    margin-left: -10px;
+}
+
+.dinp input::placeholder {
+    margin-left: 50px;
+}
